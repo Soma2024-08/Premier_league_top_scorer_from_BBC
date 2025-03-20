@@ -4,14 +4,20 @@ This project is a web scraper built with Python, Beautiful Soup, and Pandas. It 
 
 Features:
 Extracts player names, goals, and clubs — Scrapes the webpage and collects key data points.
+
 Saves data in CSV or JSON format — Output is structured for further analysis.
+
 Handles HTML parsing efficiently — Uses Beautiful Soup to navigate the page content.
+
 Data manipulation with Pandas — Cleans and structures the data for easy export.
 
 Technologies Used:
 Python  — Core programming language.
+
 Beautiful Soup  — Parses and extracts content from HTML.
+
 Requests  — Handles HTTP requests to fetch the webpage.
+
 Pandas  — Processes and structures the scraped data.
 
 Future Plans:
